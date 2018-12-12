@@ -1,0 +1,230 @@
+{
+	"1": [{
+			"name": "Kzarka",
+			"hours": "9:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Offin",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "23:59:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "23:59:0"
+		}
+	],
+	"2": [{
+			"name": "Karanda",
+			"hours": "9:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "23:59:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "23:59:0"
+		}
+	],
+	"3": [{
+			"name": "Nouver",
+			"hours": "9:0:0"
+		},
+
+		{
+			"name": "Karanda",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Offin",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "23:59:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "23:59:0"
+		}
+	],
+	"4": [{
+			"name": "Kutum",
+			"hours": "9:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "23:59:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "23:59:0"
+		}
+	],
+	"5": [{
+			"name": "Kzarka",
+			"hours": "9:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Offin",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "23:59:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "23:59:0"
+		}
+	],
+	"6": [{
+			"name": "Kutum",
+			"hours": "9:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Quint",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Muraka",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "23:59:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "23:59:0"
+		}
+	],
+	"7": [{
+			"name": "Nouver",
+			"hours": "9:0:0"
+		},
+		{
+			"name": "Karanda",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "12:0:0"
+		},
+		{
+			"name": "Vell",
+			"hours": "16:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Nouver",
+			"hours": "19:0:0"
+		},
+		{
+			"name": "Kutum",
+			"hours": "23:59:0"
+		},
+		{
+			"name": "Kzarka",
+			"hours": "23:59:0"
+		}
+	]
+}

@@ -1,0 +1,204 @@
+{
+	"weapons": {
+		"0": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"1": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"2": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"3": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"4": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"5": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"6": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"7": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"8": {
+			"base_chance": 20.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"9": {
+			"base_chance": 17.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"10": {
+			"base_chance": 15.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"11": {
+			"base_chance": 12.50,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"12": {
+			"base_chance": 10.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"13": {
+			"base_chance": 7.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"14": {
+			"base_chance": 5.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"15": {
+			"base_chance": 2.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"16": {
+			"base_chance": 15.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"17": {
+			"base_chance": 7.50,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"18": {
+			"base_chance": 5.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"19": {
+			"base_chance": 2.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"20": {
+			"base_chance": 1.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256
+		}
+	},
+
+	"armors": {
+		"0": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"1": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"2": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"3": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"4": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"5": {
+			"base_chance": 100.0,
+			"increase_chance": 0,
+			"cap_fs": 0	},
+		"6": {
+			"base_chance": 20.0,
+			"increase_chance":0.5,
+			"cap_fs": 256	},
+		"7": {
+			"base_chance": 17.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"8": {
+			"base_chance": 16.25,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"9": {
+			"base_chance": 15.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"10": {
+			"base_chance": 12.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"11": {
+			"base_chance": 11.25,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"12": {
+			"base_chance": 10.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"13": {
+			"base_chance": 7.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"14": {
+			"base_chance": 5.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"15": {
+			"base_chance": 2.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"16": {
+			"base_chance": 15.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"17": {
+			"base_chance": 7.50,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"18": {
+			"base_chance": 5.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"19": {
+			"base_chance": 2.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"20": {
+			"base_chance": 1.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256
+		}
+	},
+	"jewels":{
+		"0": {
+			"base_chance": 15.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"1": {
+			"base_chance": 15.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"2":{
+			"base_chance": 7.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"3":{
+			"base_chance": 5.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		 "4":{
+			"base_chance": 2.0,
+			"increase_chance": 0.5,
+			"cap_fs": 256		},
+		"5":{
+			"base_chance": 1.5,
+			"increase_chance": 0.5,
+			"cap_fs": 256
+		}
+	}
+}
